@@ -1,5 +1,3 @@
-# docker-devops-master-lab
-
 <div align="center">
 
 # 🐳 Docker DevOps Master Lab
